@@ -47,6 +47,9 @@ Follow these steps to set up the project locally and run the code:
    node -v
    ```
 If not installed, download and install Node.js.
+
+
+
 4. **Run the Script: Execute the JavaScript file to see the output of the test cases**:
    ```bash
    node searchInsert.js
