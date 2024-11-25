@@ -28,14 +28,16 @@ This ```index.js``` contains two JavaScript functions to find the index of a tar
 
 Follow these steps to set up the project locally and run the code:
 
-1. **Clone the Repository**:
+1. ** Fork the Repository**
+
+2. **Clone the Repository**:
    Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/<yourusername>/qpc_test.git
    ```
 
 
-2. **Navigate to the Directory: Move into the cloned repository directory**:
+3. **Navigate to the Directory: Move into the cloned repository directory**:
    ```bash
    cd qpc_test
    ```
@@ -45,8 +47,7 @@ Follow these steps to set up the project locally and run the code:
    node -v
    ```
 If not installed, download and install Node.js.
-
-3. **Run the Script: Execute the JavaScript file to see the output of the test cases**:
+4. **Run the Script: Execute the JavaScript file to see the output of the test cases**:
    ```bash
    node searchInsert.js
    ```
