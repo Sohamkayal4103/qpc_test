@@ -28,7 +28,7 @@ This ```index.js``` contains two JavaScript functions to find the index of a tar
 
 Follow these steps to set up the project locally and run the code:
 
-1. ** Fork the Repository**
+1. **Fork the Repository**
 
 2. **Clone the Repository**:
    Clone the repository to your local machine using the following command:
