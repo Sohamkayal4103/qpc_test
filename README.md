@@ -23,3 +23,31 @@ This ```index.js``` contains two JavaScript functions to find the index of a tar
   - Handles duplicates correctly by finding the leftmost insertion point.
 - **Time Complexity**: O(log n), significantly faster for large arrays.
 - **Usage**: Preferred for efficiency, especially with large datasets.
+
+## Local Setup and Running
+
+Follow these steps to set up the project locally and run the code:
+
+1. **Clone the Repository**:
+   Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/<yourusername>/qpc_test.git
+   ```
+
+
+2. **Navigate to the Directory: Move into the cloned repository directory**:
+   ```bash
+   cd qpc_test
+   ```
+
+   Ensure Node.js is Installed: Verify that Node.js is installed on your machine by running:
+   ```bash
+   node -v
+   ```
+If not installed, download and install Node.js.
+
+3. **Run the Script: Execute the JavaScript file to see the output of the test cases**:
+   ```bash
+   node searchInsert.js
+   ```
+
