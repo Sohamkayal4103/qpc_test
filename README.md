@@ -1,6 +1,8 @@
 # Search Insert Position
 
-This repository provides two JavaScript implementations to find the index of a target value in a sorted array or determine the position where it should be inserted if not found.
+This ```index.js``` contains two JavaScript functions to find the index of a target value in a sorted array or determine the position where it should be inserted if not found.
+
+**Note**: I have assumed that multiple elements with the same value can occur in the array, and the functions return the index of the **first occurrence**.
 
 ## Approaches
 
